@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name         Krillion Reskin
+@namespace    github.com/owenferg/krillion-reskin
+@version      0.1.0
+@description  A cleaner, more readable UI for krillion.io
+@author       owenferg
+@homepageURL  https://github.com/owenferg/krillion-reskin
+@supportURL   https://github.com/owenferg/krillion-reskin/issues
+@updateURL    https://raw.githubusercontent.com/owenferg/krillion-reskin/main/krillion.user.css
+==/UserStyle== */
+
+@-moz-document domain("krillion.io") {
+  /* styles go here */
+}
